@@ -70,7 +70,7 @@ function App() {
           <div className="bg-indigo-600 px-6 py-4">
             <div className="flex items-center space-x-2">
               <ListTodo className="w-6 h-6 text-indigo-100" />
-              <h1 className="text-2xl font-bold text-white">Todo List</h1>
+              <h1 className="text-2xl font-bold text-white">TaskMaster - Modern Todo List App</h1>
             </div>
           </div>
 
